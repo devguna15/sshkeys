@@ -1,0 +1,24 @@
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host 101.53.140.195
+    HostName 101.53.140.195
+    User root
+    IdentityFile "C:\Users\Guna shekar\.ssh\id_rsa"
+    IdentitiesOnly yes
+
+Host 100.52.120.227
+  HostName 100.52.120.227
+  user cortex_gunashekhar
+
+Host 172.16.16.40
+  HostName 172.16.16.40
+  User tdb
+
+Host 52.72.154.231
+  HostName 52.72.154.231
+  user gunashekhar    
+
+Host 101.53.137.48
+    HostName 101.53.137.48
+    User root
+    IdentityFile "C:\Users\Guna shekar\.ssh\h100\id_rsa 1"
+    IdentitiesOnly yes
