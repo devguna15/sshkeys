@@ -1,0 +1,12 @@
+Host 101.53.140.195
+    HostName 101.53.140.195
+    User root
+    IdentityFile "C:\Users\Guna shekar\.ssh\id_rsa"
+    IdentitiesOnly yes
+
+
+Host 101.53.137.48
+    HostName 101.53.137.48
+    User root
+    IdentityFile "C:\Users\Guna shekar\.ssh\h100\id_rsa 1"
+    IdentitiesOnly yes
